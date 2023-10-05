@@ -27,6 +27,12 @@ body {
     width: 10%;
     object-fit: contain;
 }
+.nav button {
+    background-color: rgb(40, 39, 39);
+    border: none;
+    color: rgb(175, 174, 174);
+    
+}
 
 .nav ion-icon {
     font-size: 25px;
