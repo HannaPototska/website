@@ -12,8 +12,23 @@ body {
 }
 
 .nav {
-    height: 10%;
+    height: 7%;
     background-color: rgb(40, 39, 39);
+    color: rgb(175, 174, 174);
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.nav img {
+    width: 10%;
+    object-fit: contain;
+}
+
+.nav ion-icon {
+    font-size: 25px;
 }
 
 .pic {
