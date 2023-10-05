@@ -113,9 +113,7 @@ body {
         z-index: -1;
 
     }
-    .pic p {
-        /* padding: 0 300px; */
-    }
+    
     .pic img {
         width: 50%;
         height: 80%;
