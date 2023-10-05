@@ -73,6 +73,27 @@ body {
     align-items: center;
 }
 
+.info {
+    height: 93%;
+    background-color: rgb(32, 30, 30);
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(224, 219, 219);
+}
+
+.info button {
+    color: black;
+    background-color: rgb(6, 224, 144);
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+}
+
 
 @media only screen and (min-width: 992px) {
     .nav {
