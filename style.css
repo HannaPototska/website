@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightgray;
+}
+
+.nav {
+    height: 10%;
+    background-color: rgb(40, 39, 39);
+}
+
+.pic {
+    height: 80%;
+    background-color: gray;
+}
+
+.text {
+    height: 50%;
+    background-color: rebeccapurple;
+}
+
+.footer {
+    height: 10%;
+    background-color: aliceblue;
+}
