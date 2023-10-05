@@ -30,3 +30,23 @@ body {
     height: 10%;
     background-color: aliceblue;
 }
+
+
+@media only screen and (min-width: 992px) {
+    .nav {
+        height: 8%;
+    }
+
+    .pic {
+        height: 50%;
+    }
+
+    .text {
+        height: 30%;
+    }
+
+    .footer {
+        height: 12%;
+
+    }
+}
