@@ -100,16 +100,45 @@ body {
         height: 8%;
     }
 
-    .pic {
-        height: 50%;
+    .nav img {
+        width: 4.5%;
     }
 
+    .pic {
+        height: 70%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        z-index: -1;
+
+    }
+    .pic p {
+        /* padding: 0 300px; */
+    }
+    .pic img {
+        width: 50%;
+        height: 80%;
+        /* object-fit: contain; */
+    }
     .text {
-        height: 30%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 10%;
+        /* border: 2px red solid; */
+       
+        z-index: 10;
     }
 
     .footer {
         height: 12%;
+        justify-content: center;
 
+    }
+
+
+    .info {
+        height: 92%;
     }
 }
