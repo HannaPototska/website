@@ -59,7 +59,12 @@ body {
 
 .footer {
     height: 10%;
-    background-color: aliceblue;
+    background-color: rgb(32, 30, 30);
+    text-align: center;
+    border-top: 1px solid rgb(6, 224, 144);
+    color: rgb(224, 219, 219);
+    display: flex;
+    align-items: center;
 }
 
 
